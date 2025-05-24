@@ -48,9 +48,9 @@ Eğer proje kapsamında arayüz (ör. Streamlit) geliştirirseniz, UI klasörü 
 Bu proje kapsamında kalp krizi tahmini için temel bir makine öğrenimi modeli oluşturulmuş ve analiz edilmiştir. Gelecekte:
 
 - Daha fazla algoritma ile model karşılaştırmaları yapılabilir (Random Forest, XGBoost, vb.).
-- Modelin web arayüzü ile son kullanıcıya sunulması sağlanabilir.
-- Gerçek zamanlı veri analizi veya canlı veri kaynakları entegre edilebilir.
-- Açıklanabilirlik araçları (SHAP, LIME) ile model içgörüleri artırılabilir.
 
+Linkler
+
+[Kaggle](https://www.kaggle.com/code/lkayacar/kalp-krizi)
 
 ---
