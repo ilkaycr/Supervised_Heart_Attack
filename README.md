@@ -52,6 +52,5 @@ Bu proje kapsamında kalp krizi tahmini için temel bir makine öğrenimi modeli
 - Gerçek zamanlı veri analizi veya canlı veri kaynakları entegre edilebilir.
 - Açıklanabilirlik araçları (SHAP, LIME) ile model içgörüleri artırılabilir.
 
-Projenizi geliştirerek hem teknik bilginizi artırabilir hem de portföyünüzü daha güçlü hale getirebilirsiniz.
 
 ---
